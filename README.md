@@ -4,7 +4,7 @@ Hi, I made this project during the 7 days free bootcamp conducted by <b>SHAPEAI<
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at JIO). I got to
 learn alot during these 7 days and it was an amazing experience learning at SHAPEAI
 <br><br>Here's a link for you to watch sessions as well<br>
-<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbun7K0fECtSMCI2hOCgLBy9a"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/WebD%20poster.png""> </a>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbun7K0fECtSMCI2hOCgLBy9a"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/WebD%20poster.png"> </a>
 <br>I got to have hands on experience on:
 <li>HTML
 <li>CSS
